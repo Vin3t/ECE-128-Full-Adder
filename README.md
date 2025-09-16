@@ -1,0 +1,2 @@
+# ECE-128-Full-Adder
+The purpose of this lab is to create a full adder; starting with a 1-bit adder we’ll work up to creating a 4 bit adder with ripple carry and carry look ahead. By implementing the 1-bit full adder the student will be able to understand the design of the most basic adder and instantiate it for the ripple carry. Then a student will be able to understand the carry ins / carry outs thus being able to generate a carry in bit that will propagate throughout the circuit.
